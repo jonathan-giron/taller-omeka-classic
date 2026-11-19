@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Bandera Palestina en el IISUE</dc:title>
+    <dc:subject>Palestina; UNAM; Ciudad Universitaria</dc:subject>
+    <dc:description>Bandera palestina colocada en 2025 por los trabajadores del Instituto de Investigaciones sobre la Universidad y la Educación en la fachada del Instituto</dc:description>
+    <dc:creator>Ikiwiki1984</dc:creator>
+    <dc:source>https://es.wikipedia.org/wiki/Acad%C3%A9micas_con_Palestina_contra_el_genocidio#/media/Archivo:Bandera_Palestina_en_el_IISUE.jpg</dc:source>
+    <dc:publisher>Diplomado de Humanidades Digitales, FFyL-UNAM</dc:publisher>
+    <dc:date>2025-10-07</dc:date>
+    <dc:contributor>Girón Palau, Jonathan</dc:contributor>
+    <dc:rights>Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/</dc:rights>
+    <dc:relation>Palestina</dc:relation>
+    <dc:format>image/jpeg</dc:format>
+    <dc:language>es-MX</dc:language>
+    <dc:type>fotografía</dc:type>
+    <dc:identifier>Bandera_Palestina_en_el_IISUE.jpg</dc:identifier>
+    <dc:coverage>2025</dc:coverage>
+  </metadata>
+</package>

@@ -1,0 +1,18 @@
+# Sistema
+.DS_Store
+~$*
+
+# Versiones en Word (se distribuyen aparte)
+Word/
+
+# Presentación y notas internas
+*.pptx
+Revisión 2026.md
+
+# Imágenes y documentos de terceros (no se redistribuyen)
+imaagenes gral/Biblioteca/
+imaagenes gral/Ejercicio/Palestina/
+imaagenes gral/Ejercicio/Biblioteca imposible/*.jpg
+
+# Repositorio vacío creado por error (borrar a mano)
+Omeka/
