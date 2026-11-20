@@ -1,6 +1,6 @@
 # Taller de Omeka Classic
 
-Materiales del taller de Omeka Classic para el **Diplomado de Humanidades Digitales** (FFyL-UNAM), edición 2026.
+Materiales del taller de Omeka Classic, 2026.
 
 ## Contenido del repositorio
 
@@ -16,7 +16,7 @@ Materiales del taller de Omeka Classic para el **Diplomado de Humanidades Digita
 | `imaagenes gral/*.png` | Capturas de pantalla de Omeka.net |
 | `imaagenes gral/Tutorial.md` y `Ejercicio/HTML/` | Material de apoyo y fragmentos HTML de ejemplo |
 
-**Sobre las imágenes de los ejercicios:** las imágenes de terceros (memes publicados en X y fotografías del ejercicio *Palestina*) no se incluyen en este repositorio. Las de la *Biblioteca imposible* se descargan directamente desde su fuente: el CSV las importa por URL, y la guía del ejercicio enlaza cada una. Las del ejercicio *Palestina* se comparten durante la sesión.
+**Sobre las imágenes de los ejercicios:** las imágenes de terceros no se incluyen en este repositorio.
 
 ## Objetivos de Aprendizaje
 
@@ -33,7 +33,7 @@ Al finalizar el taller, los participantes serán capaces de:
 
 **Ejercicio 1:** Análisis crítico de un proyecto existente (30 minutos)
 
-Equipos de 3-4 personas; cada equipo analiza un sitio distinto (verificar los enlaces el día anterior: Cleveland Historical, un sitio del directorio de Omeka Classic <https://omeka.org/classic/directory/> y uno de la UNAM).
+Equipos de 3-4 personas; cada equipo analiza un sitio distinto: Cleveland Historical, un sitio del directorio de Omeka Classic <https://omeka.org/classic/directory/> y uno de la UNAM.
 
 Guía de observación:
 
@@ -52,7 +52,6 @@ Producto: una fortaleza, una debilidad y una decisión que el equipo copiaría.
 - Subida y descripción de elementos (textos, imágenes, documentos)
 - Aplicación de metadatos Dublin Core
 - Uso de etiquetas y organización básica
-- Material: *Biblioteca imposible* (portadas apócrifas; ver `imaagenes gral/Ejercicio/Biblioteca imposible/Guía del ejercicio.md`) o *Palestina* (`imaagenes gral/Ejercicio/Palestina`)
 - Opcional: importación por lotes con CSV Import
 
 **Ejercicio 3:** Colecciones y exhibiciones (40 minutos)
