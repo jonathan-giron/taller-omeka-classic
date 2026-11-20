@@ -36,7 +36,6 @@ Los elementos principales de un sitio Omeka son:
 - Archivo de escritos de mujeres (IISUE-UNAM): <http://132.248.192.24/archivos_mujeres/>
 - Directorio de sitios hechos con Omeka Classic: <https://omeka.org/classic/directory/>
 
-> Verifica los enlaces antes de la sesión: los sitios de humanidades digitales también desaparecen (es parte de la discusión sobre sostenibilidad del Ejercicio 1).
 
 
 ## Iniciar con omeka.net
@@ -69,17 +68,17 @@ Ideas:
 - textos, recursos educativos, etc.
 
 Estas preguntas te ayudarán con los pasos de planificación.
-¿Cuáles son los objetivos principales del sitio web?
-¿Quién es la audiencia principal de este sitio web? 
-¿Qué secciones incluirá este sitio web?
+- ¿Cuáles son los objetivos principales del sitio web?
+- ¿Quién es la audiencia principal de este sitio web? 
+- ¿Qué secciones incluirá este sitio web?
 
 La navegación principal típica y las secciones de un sitio estándar de Omeka Classic incluyen:
 
-Elementos (Items): enlaza a una lista navegable de elementos, ordenable por tipo de elemento y etiquetas.
-Colecciones (Collections): grupos de elementos, el público puede explorar la colección para encontrar elementos.
-Exhibiciones (Exhibits): Las exhibiciones contienen texto interpretativo y se basan en elementos/fuentes/objetos como sus componentes fundamentales.
-Acerca de (About): una página simple ideal para publicar descripciones del proyecto, créditos, derechos, etc.
-Barra de búsqueda (Search bar): con opción de enlazar a una página de búsqueda avanzada.
+- Elementos (Items): enlaza a una lista navegable de elementos, ordenable por tipo de elemento y etiquetas.
+- Colecciones (Collections): grupos de elementos, el público puede explorar la colección para encontrar elementos.
+- Exhibiciones (Exhibits): Las exhibiciones contienen texto interpretativo y se basan en elementos/fuentes/objetos como sus componentes fundamentales.
+- Acerca de (About): una página simple ideal para publicar descripciones del proyecto, créditos, derechos, etc.
+- Barra de búsqueda (Search bar): con opción de enlazar a una página de búsqueda avanzada.
 
 ----
 Primeros pasos (sign in):
